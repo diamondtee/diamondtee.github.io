@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Software Developer from Chicago.
-url:                 https://jamigibbs.com
+title:               Temitope Adeyemi
+tagline:             Data Analyst
+url:                 https://diamondtee.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,17 +17,17 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://hachyderm.io/@jamigibbs
-  email:             jami0821@gmail.com
+  name:              Temitope Adeyemi
+  url:               diamondtee.github.io
+  email:             adeyemitemitope2018@gmail.com
 
 # Custom vars
 version:             2.0.1
 github:
-  repo:              https://github.com/jamigibbs/portfolio
+  repo:              https://github.com/diamondtee
 google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
+twitter:             biggysmall44
+github:              diamondtee
 dribbble:            jamigibbs
 
 # Gems
