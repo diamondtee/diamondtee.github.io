@@ -2,7 +2,6 @@
 layout: post
 title: Cancer Classification Using Machine Learning
 git: https://github.com/diamondtee/Cancer-Classification
-site: https://github.com/diamondtee/Cancer-Classification
 ---
 <img title="a title" alt="Alt text" src="/public/cancer.png">
 This project objective is to create a Machine Learning model that can predict if a cancer cell is malignant or begnin given the properties of the cell.
