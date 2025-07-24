@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Another one
-git: https://github.com/jamigibbs/phantom
-site: http://jamigibbs.github.io/phantom
+title: Microsoft Excel Projects
+git: https://github.com/diamondtee/Excel-Projects
 ---
+<img title="Ms Excel" alt="Alt text" src="/public/excel.jpg">
+This is a Github Repository of my MS Excel Projects, it contains functions in MS Excel, Dashboard and Pivot Table.
 
-A minimalist, responsive portfolio theme.
-
-Built with Jekyll with Bootstrap
+[Click here to view Project](https://github.com/diamondtee/Excel-Projects)
