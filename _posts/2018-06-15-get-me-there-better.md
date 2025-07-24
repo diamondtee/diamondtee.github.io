@@ -1,9 +1,10 @@
 ---
 layout: post
-title: MY SQL Repository
-git: https://github.com/jamigibbs/get-me-there-better
+title: Restaurant Order Analysis in SQL
+git: https://medium.com/@adeyemitemitope2018/restaurant-order-analysis-in-sql-11eb843098e9
 ---
+<img title="Restaurant" alt="Alt text" src="/Restaurant_picture.jpg">
+The goal of the analysis is to gain insights into menu items, order details to provide actionable recommendations for improving sales and increasing revenue.
 
-A mobile app that provides multiple options getting from your current location to a given destination. It indicates an optimal route based on cost or time preference with route details for each: CTA transit, Divvy bike, walking, or Lyft rideshare
+[Click here to view other Project](https://github.com/diamondtee/Data-Analysis-using-SQL-on-an-Automobile-Company)
 
-Built with React Native, Redux, NativeBase.io, and Google APIs.
