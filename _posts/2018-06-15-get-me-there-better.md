@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get Me There Better!
+title: MY SQL Repository
 git: https://github.com/jamigibbs/get-me-there-better
 ---
 
