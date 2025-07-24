@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Manage Gifts
-git: https://github.com/jamigibbs/manage-gifts
-site: http://www.managegifts.com/
+title: Cancer Classification Using Machine Learning
+git: https://github.com/diamondtee/Cancer-Classification
+site: https://github.com/diamondtee/Cancer-Classification
 ---
+<img title="a title" alt="Alt text" src="/public/cancer.png">
+This project objective is to create a Machine Learning model that can predict if a cancer cell is malignant or begnin given the properties of the cell.
 
-Manage Gifts allows you to organize your gift giving throughout the year. Find gifts online and assign them to a gift receiver. Track how many gifts you've assigned, purchased, and the cost for each.
-
-Built using Node, Express, React, Redux, Material-UI, and PostgreSQL.
+The Model was built with Logistic Regression and KNN( k-Nearest Neighbors) Algorithm.
+[Click here to view Project](https://github.com/diamondtee/Cancer-Classification)
