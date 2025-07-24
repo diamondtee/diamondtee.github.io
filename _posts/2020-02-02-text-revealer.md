@@ -2,10 +2,10 @@
 layout: post
 title: Text Revealer
 git: https://github.com/jamigibbs/text-revealer-js
-site: https://jamigibbs.github.io/text-revealer-js/
+site: https://github.com/diamondtee/Fraud-Detection-in-Electricity-and-Gas-Consumption
 ---
 <img title="a title" alt="Alt text" src="/public/Madin_Picture.jpg">
-Text Revealer is a browser script to assist in revealing deeper information about highlighted text on a page. When text is selected or highlighted, a popover displays useful details about the text such as Wikipedia entires and dictionary definition. Available as a standalone script or Chrome Extension.
+The aim of this project is to help an electicity and Gas Company detect and recognize clients involved in fraudulent activities using their billing history. This will help to enhance the company's revenues and also reduce the losses caused by such fraudulent activites.
 
-Built using Vanilla Javascript.
-[Click here to view Project](http://www.google.com)
+This was done with Machine learning Models - Decision Tree, Random Forest Algorithm.
+[Click here to view Project](https://github.com/diamondtee/Fraud-Detection-in-Electricity-and-Gas-Consumption)
