@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Text Revealer
+title: Fraud Detention in Electricity and Gas Consumption using Machine Learning
 git: https://github.com/jamigibbs/text-revealer-js
 site: https://github.com/diamondtee/Fraud-Detection-in-Electricity-and-Gas-Consumption
 ---
